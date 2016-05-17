@@ -1,24 +1,24 @@
 .logo{
-	text-align: center;
-	display: block;
+  text-align: center;
+  display: block;
 }
 
 .top_nav{
-	float: right;
-	list-style-type: none;
+  float: right;
+  list-style-type: none;
 }
 
 img{
-	height: 92px;
-	width: 272px;
-	padding-top: 109px;
+  height: 92px;
+  width: 272px;
+  padding-top: 109px;
 }
 
 ul{
-	list-style-type: none;
+  list-style-type: none;
 }
 
 li{
-	display: inline-block;
-	font-family: arial, sans-serif;
+  display: inline-block;
+  font-family: arial, sans-serif;
 }
