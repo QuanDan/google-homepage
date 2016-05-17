@@ -1,0 +1,13 @@
+.logo{
+	text-align: center;
+	display: block;
+}
+
+.top_nav{
+	float: right;
+}
+
+li{
+	display: inline-block;
+	font-family: arial, sans-serif;
+}
