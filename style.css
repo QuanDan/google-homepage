@@ -5,6 +5,7 @@
 
 .top_nav{
 	float: right;
+	list-style-type: none;
 }
 
 img{
