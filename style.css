@@ -46,3 +46,7 @@ a:link{
 a:visited{
   color: #666;
 }
+
+a:hover{
+  color: green;
+}
