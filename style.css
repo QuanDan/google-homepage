@@ -12,11 +12,11 @@ div{
   list-style-type: none;
 }
 
-#icon{
+.icons{
   background-image: url("../images/icons.png");
 }
 
-.class{
+#apps{
   background-position: -132px -39px;
   position: absolute;
 }
