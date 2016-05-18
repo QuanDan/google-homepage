@@ -12,6 +12,15 @@ div{
   list-style-type: none;
 }
 
+#icon{
+  background-image: url("images/icon.png");
+}
+
+.class{
+  background-position: -132px -39px;
+  position: absolute;
+}
+
 img{
   height: 92px;
   width: 272px;
@@ -24,5 +33,6 @@ ul{
 
 li{
   display: inline-block;
+  margin-left: 10px;
   font-family: arial, sans-serif;
 }
