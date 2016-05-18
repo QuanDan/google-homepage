@@ -38,3 +38,11 @@ li{
   margin-left: 10px;
   font-family: arial, sans-serif;
 }
+
+a:link{
+  text-decoration: none;
+}
+
+a:visited{
+  color: #666;
+}
