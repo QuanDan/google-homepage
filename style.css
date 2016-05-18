@@ -39,7 +39,7 @@ li{
   font-family: arial, sans-serif;
 }
 
-a:link{
+a, a:link{
   text-decoration: none;
 }
 
