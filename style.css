@@ -47,6 +47,7 @@ a:visited{
   color: #666;
 }
 
-a:hover{
+a:hover, a:active{
   color: green;
+  text-decoration: underline;
 }
