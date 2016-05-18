@@ -19,6 +19,8 @@ div{
 #apps{
   background-position: -132px -39px;
   position: absolute;
+  height: 30px;
+  width: 30px;
 }
 
 img{
