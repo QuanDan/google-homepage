@@ -10,7 +10,7 @@ div{
 .top_nav{
   float: right;
   margin: 0px 0px 0px 0px;
-  border: 0px 0px 0px 0px;
+  border: 0px;
   padding-left: 30px;
   padding-right: 30px;
   font-size: 13px;
@@ -52,6 +52,7 @@ li{
   display: inline-block;
   margin-left: 10px;
   font-family: arial, sans-serif;
+  vertical-align: middle;
 }
 
 a, a:link{
