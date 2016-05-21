@@ -10,7 +10,7 @@ div{
 
 .logo{
   display: block;
-  margin-top: 89px;
+  margin-top: 90px;
   text-align: center;
   clear: both;
 }
@@ -48,6 +48,7 @@ div{
   background-color: #4285f4;
   border: 1px solid #4285f4;
   padding: 7px 12px 7px 12px;
+  border-radius: 5%;
   color: white;
   text-align: center;
   font-weight: bold;
@@ -56,12 +57,7 @@ div{
 img {
   height: 92px;
   width: 272px;
-  padding-top: 109px;
-  display: block;
-  margin: 0 auto;
-}
-
-.center{
+  padding-top: 110px;
   display: block;
   margin: 0 auto;
 }
@@ -88,4 +84,9 @@ a:visited{
 a:hover, a:active{
   color: black;
   text-decoration: underline;
+}
+
+.navbar {
+  display: block;
+  height: 25px;
 }
