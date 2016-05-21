@@ -18,7 +18,7 @@ div{
 }
 
 .icons{
-  background-image: url("../images/icons.png");
+  background-image: url("images/icons.png");
   display: inline-block;
   box-sizing: border-box;
   height: 100px;
