@@ -9,20 +9,15 @@ div{
 
 .top_nav{
   float: right;
+  margin-top: 0px;
+  margin-bottom: 0px;
   list-style-type: none;
 }
 
 .icons{
+  background-image: url("../images/icons.png");
   display: inline-block;
   box-sizing: border-box;
-  background-image: url("../images/icons.png");
-  height: 30px;
-  width: 30px;
-}
-
-#apps{
-  background-position: -132px -39px;
-  position: absolute;
   height: 30px;
   width: 30px;
 }
