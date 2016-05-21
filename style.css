@@ -62,22 +62,22 @@ img {
   margin: 0 auto;
 }
 
-ul{
+ul {
   list-style-type: none;
 }
 
-li{
+li {
   display: inline-block;
   margin-left: 10px;
   font-family: arial, sans-serif;
   vertical-align: middle;
 }
 
-a, a:link{
+a, a:link {
   text-decoration: none;
 }
 
-a:visited{
+a:visited {
   color: black;
 }
 
@@ -86,7 +86,7 @@ a:hover, a:active {
   text-decoration: underline;
 }
 
-.navbar {
+.searchbar {
   display: block;
   width: 586px;
   height: 40px;
