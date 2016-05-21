@@ -88,5 +88,7 @@ a:hover, a:active{
 
 .navbar {
   display: block;
-  height: 25px;
+  width: 586px;
+  height: 40px;
+  margin: 0 auto;
 }
