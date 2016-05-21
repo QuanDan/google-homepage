@@ -31,9 +31,13 @@ div{
   width: 30px;
 }
 
-.apps{
+.apps {
   background-position: -132px -38px;
   opacity: .55;
+}
+
+.apps:hover{
+  opacity: 1;
 }
 
 img{
