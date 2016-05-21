@@ -94,6 +94,10 @@ a:hover, a:active {
   border: 1px solid black;
 }
 
+.in {
+  vertical-align: middle;
+}
+
 input {
   width: 526px;
   height: 26px;
