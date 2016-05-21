@@ -9,8 +9,10 @@ div{
 
 .top_nav{
   float: right;
-  margin-top: 0px;
-  margin-bottom: 0px;
+  margin: 0px 0px 0px 0px;
+  border: 0px 0px 0px 0px;
+  padding-left: 30px;
+  padding-right: 30px;
   list-style-type: none;
 }
 
