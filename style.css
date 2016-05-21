@@ -3,8 +3,9 @@ div{
 }
 
 .logo{
-  text-align: center;
   display: block;
+  text-align: center;
+  clear: both;
 }
 
 .top_nav{
