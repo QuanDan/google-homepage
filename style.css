@@ -13,9 +13,10 @@ div{
   clear: both;
 }
 
-.top_nav{
+.top_nav {
   float: right;
   border: 0px;
+  margin: 20px;
   padding-left: 30px;
   padding-right: 30px;
   font-size: 13px;
