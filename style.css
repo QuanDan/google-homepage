@@ -4,6 +4,7 @@ body {
 
 div{
   background-color: brown;
+  font-family: arial, sans-serif;
   top: 0;
 }
 
@@ -39,6 +40,10 @@ div{
 
 .apps:hover {
   opacity: 1;
+}
+
+.sign_in {
+
 }
 
 img{
