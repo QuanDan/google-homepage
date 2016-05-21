@@ -44,10 +44,11 @@ div{
 
 .sign_in {
   background-color: #4285f4;
-  border: 2px solid #4265f4;
+  border: 2px solid #4285f4;
   padding: 7px;
   color: white;
   text-align: center;
+  font-weight: bold;
 }
 
 img{
