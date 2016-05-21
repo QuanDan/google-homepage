@@ -91,4 +91,10 @@ a:hover, a:active {
   width: 586px;
   height: 40px;
   margin: 0 auto;
+  border: 1px solid black;
+}
+
+input {
+  width: 526px;
+  height: 26px;
 }
