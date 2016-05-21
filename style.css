@@ -14,7 +14,6 @@ div{
   padding-left: 30px;
   padding-right: 30px;
   font-size: 13px;
-  vertical-align: middle;
   list-style-type: none;
 }
 
@@ -28,7 +27,7 @@ div{
 }
 
 .apps{
-  background-position: -132px -32px;
+  background-position: -132px -38px;
 }
 
 img{
