@@ -5,7 +5,6 @@ body {
 div{
   background-color: brown;
   top: 0;
-  opacity: .50;
 }
 
 .logo{
@@ -16,7 +15,6 @@ div{
 
 .top_nav{
   float: right;
-  margin: 0px 0px 0px 0px;
   border: 0px;
   padding-left: 30px;
   padding-right: 30px;
@@ -35,6 +33,7 @@ div{
 
 .apps{
   background-position: -132px -38px;
+  opacity: .55;
 }
 
 img{
