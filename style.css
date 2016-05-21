@@ -10,6 +10,7 @@ div{
 
 .logo{
   display: block;
+  margin-top: 89px;
   text-align: center;
   clear: both;
 }
@@ -21,6 +22,7 @@ div{
   padding-left: 30px;
   padding-right: 30px;
   font-size: 13px;
+  opacity: .75;
   list-style-type: none;
 }
 
