@@ -88,14 +88,18 @@ a:hover, a:active {
 
 .searchbar {
   display: block;
+  position: relative;
   width: 586px;
   height: 40px;
   margin: 0 auto;
   border: 1px solid black;
+  clear: both;
 }
 
-.in {
-  vertical-align: middle;
+.search {
+  position: absolute;
+  top: 50%;
+  transform: translate(0, -50%);
 }
 
 input {
