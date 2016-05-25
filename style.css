@@ -8,9 +8,13 @@ div{
   top: 0;
 }
 
+.header {
+  height: 1px;
+}
+
 .logo{
   display: block;
-  margin-top: 90px;
+  margin-top: 89px;
   margin-bottom: 35px;
   text-align: center;
   clear: both;
