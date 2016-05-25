@@ -96,6 +96,12 @@ a:hover, a:active {
   clear: both;
 }
 
+.speaker {
+  width: 25px;
+  height: 38px;
+  padding: 0 8px 0 8px;
+  float: right;
+}
 .search {
   position: absolute;
   top: 50%;
@@ -107,4 +113,5 @@ input {
   height: 26px;
   padding: 0;
   border: 0;
+
 }
